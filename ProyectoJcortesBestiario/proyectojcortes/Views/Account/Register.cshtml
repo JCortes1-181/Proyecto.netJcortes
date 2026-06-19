@@ -1,0 +1,35 @@
+﻿@model proyectojcortes.Models.Usuario
+
+@{
+    ViewData["Title"] = "Registro de Usuario";
+}
+
+<div class="row justify-content-center mt-5">
+    <div class="col-md-5">
+        <div class="card shadow p-4">
+            <h2 class="text-center mb-4">Crear Cuenta</h2>
+
+            <form asp-action="Register" method="post">
+                <div class="mb-3">
+                    <label asp-for="NombreUsuario" class="form-label">Nombre de Usuario</label>
+                    <input asp-for="NombreUsuario" class="form-control" required />
+                    <span asp-validation-for="NombreUsuario" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Correo" class="form-label">Correo Electrónico</label>
+                    <input asp-for="Correo" type="email" class="form-control" required />
+                    <span asp-validation-for="Correo" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Contrasena" class="form-label">Contraseña</label>
+                    <input asp-for="Contrasena" type="password" class="form-control" required />
+                    <span asp-validation-for="Contrasena" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-success w-100">Registrarse</button>
+            </form>
+            <div class="text-center mt-3">
+                <a asp-action="Login">¿Ya tienes cuenta? Inicia sesión</a>
+            </div>
+        </div>
+    </div>
+</div>
