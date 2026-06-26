@@ -1,0 +1,538 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260626154520_AjusteRegistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyectojcortes\\Migrations\\20260626154520_AjusteRegistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\controllers\\criaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\controllers\\criaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\views\\criaturas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\views\\criaturas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\views\\criaturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\views\\criaturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\models\\criatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\models\\criatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260626145357_AddEsAdminToUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyectojcortes\\Migrations\\20260626145357_AddEsAdminToUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\proyectojcortes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\proyectojcortes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Controllers\\RegistroesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyectojcortes\\Controllers\\RegistroesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\migrations\\20260612024944_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\migrations\\20260612024944_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\views\\criaturas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\views\\criaturas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260612023956_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyectojcortes\\Migrations\\20260612023956_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260612024729_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyectojcortes\\Migrations\\20260612024729_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\proyectojcortes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\proyectojcortes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\migrations\\20260619141036_addsoftdeletetoalltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\migrations\\20260619141036_addsoftdeletetoalltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|c:\\users\\joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\migrations\\20260619140614_addsoftdeletetousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8781-EF6B-6F81-14B8-5ADCEF81488B}|proyectojcortes\\proyectojcortes.csproj|solutionrelative:proyectojcortes\\migrations\\20260619140614_addsoftdeletetousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260626154520_AjusteRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260626154520_AjusteRegistro.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Migrations\\20260626154520_AjusteRegistro.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260626154520_AjusteRegistro.cs",
+              "RelativeToolTip": "proyectojcortes\\Migrations\\20260626154520_AjusteRegistro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T15:45:20.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "proyectojcortes\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T15:34:52.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Usuarios\\Details.cshtml",
+              "RelativeDocumentMoniker": "proyectojcortes\\Views\\Usuarios\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Usuarios\\Details.cshtml",
+              "RelativeToolTip": "proyectojcortes\\Views\\Usuarios\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-26T15:32:13.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Criaturas\\Details.cshtml",
+              "RelativeDocumentMoniker": "proyectojcortes\\Views\\Criaturas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Criaturas\\Details.cshtml",
+              "RelativeToolTip": "proyectojcortes\\Views\\Criaturas\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswDEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-26T15:31:57.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Criaturas\\Index.cshtml",
+              "RelativeDocumentMoniker": "proyectojcortes\\Views\\Criaturas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Criaturas\\Index.cshtml",
+              "RelativeToolTip": "proyectojcortes\\Views\\Criaturas\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-26T15:29:59.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "proyectojcortes\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "proyectojcortes\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T06:19:06.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "proyectojcortes\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAQwHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T06:12:40.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CriaturasController.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Controllers\\CriaturasController.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Controllers\\CriaturasController.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Controllers\\CriaturasController.cs",
+              "RelativeToolTip": "proyectojcortes\\Controllers\\CriaturasController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAQwLAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T01:23:13.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Models\\Registro.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Models\\Registro.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Models\\Registro.cs",
+              "RelativeToolTip": "proyectojcortes\\Models\\Registro.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T01:17:37.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "proyectojcortes\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "proyectojcortes\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T05:56:12.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "proyectojcortes\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T15:16:14.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "proyectojcortes\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "proyectojcortes\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T04:58:18.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Criatura.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Models\\Criatura.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Models\\Criatura.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Models\\Criatura.cs",
+              "RelativeToolTip": "proyectojcortes\\Models\\Criatura.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T01:17:10.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260626145357_AddEsAdminToUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260626145357_AddEsAdminToUsuario.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Migrations\\20260626145357_AddEsAdminToUsuario.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260626145357_AddEsAdminToUsuario.cs",
+              "RelativeToolTip": "proyectojcortes\\Migrations\\20260626145357_AddEsAdminToUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T14:53:57.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Models\\Usuarios.cs",
+              "RelativeToolTip": "proyectojcortes\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T01:16:23.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "proyectojcortes",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\proyectojcortes.csproj",
+              "RelativeDocumentMoniker": "proyectojcortes\\proyectojcortes.csproj",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\proyectojcortes.csproj",
+              "RelativeToolTip": "proyectojcortes\\proyectojcortes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-26T14:42:48.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "proyectojcortes\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "proyectojcortes\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-19T04:30:27.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegistroController.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Controllers\\RegistroController.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Controllers\\RegistroController.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Controllers\\RegistroController.cs",
+              "RelativeToolTip": "proyectojcortes\\Controllers\\RegistroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T14:12:30.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "proyectojcortes\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "proyectojcortes\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T15:24:49.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "proyectojcortes\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "proyectojcortes\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T15:24:22.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "proyectojcortes\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T01:19:15.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Program.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Program.cs",
+              "RelativeToolTip": "proyectojcortes\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T01:19:35.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260619141036_AddSoftDeleteToAllTables.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260619141036_AddSoftDeleteToAllTables.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Migrations\\20260619141036_AddSoftDeleteToAllTables.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260619141036_AddSoftDeleteToAllTables.cs",
+              "RelativeToolTip": "proyectojcortes\\Migrations\\20260619141036_AddSoftDeleteToAllTables.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T14:10:36.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20260619140614_AddSoftDeleteToUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260619140614_AddSoftDeleteToUsuario.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Migrations\\20260619140614_AddSoftDeleteToUsuario.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260619140614_AddSoftDeleteToUsuario.cs",
+              "RelativeToolTip": "proyectojcortes\\Migrations\\20260619140614_AddSoftDeleteToUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T14:06:14.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegistroesController.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Controllers\\RegistroesController.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Controllers\\RegistroesController.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Controllers\\RegistroesController.cs",
+              "RelativeToolTip": "proyectojcortes\\Controllers\\RegistroesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T05:53:28.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260612024944_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260612024944_Inicial.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Migrations\\20260612024944_Inicial.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260612024944_Inicial.cs",
+              "RelativeToolTip": "proyectojcortes\\Migrations\\20260612024944_Inicial.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T02:49:45.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Criaturas\\Create.cshtml",
+              "RelativeDocumentMoniker": "proyectojcortes\\Views\\Criaturas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Views\\Criaturas\\Create.cshtml",
+              "RelativeToolTip": "proyectojcortes\\Views\\Criaturas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T15:51:16.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "proyectojcortes.csproj",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\proyectojcortes.csproj",
+              "RelativeDocumentMoniker": "proyectojcortes\\proyectojcortes.csproj",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\proyectojcortes.csproj",
+              "RelativeToolTip": "proyectojcortes\\proyectojcortes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-12T02:32:36.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260612023956_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260612023956_Inicial.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Migrations\\20260612023956_Inicial.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260612023956_Inicial.cs",
+              "RelativeToolTip": "proyectojcortes\\Migrations\\20260612023956_Inicial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T02:39:56.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20260612024729_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260612024729_Inicial.cs",
+              "RelativeDocumentMoniker": "proyectojcortes\\Migrations\\20260612024729_Inicial.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\Migrations\\20260612024729_Inicial.cs",
+              "RelativeToolTip": "proyectojcortes\\Migrations\\20260612024729_Inicial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T02:47:30.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\appsettings.json",
+              "RelativeDocumentMoniker": "proyectojcortes\\appsettings.json",
+              "ToolTip": "C:\\Users\\Joaquin\\source\\repos\\proyectojcortes\\proyectojcortes\\appsettings.json",
+              "RelativeToolTip": "proyectojcortes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-12T01:14:48.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
